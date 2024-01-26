@@ -1,0 +1,14 @@
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/GB_final/Code/bin/Debug/net8.0/Code
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/GB_final/Code/bin/Debug/net8.0/Code.deps.json
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/GB_final/Code/bin/Debug/net8.0/Code.runtimeconfig.json
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/GB_final/Code/bin/Debug/net8.0/Code.dll
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/GB_final/Code/bin/Debug/net8.0/Code.pdb
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/GB_final/Code/obj/Debug/net8.0/Code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/GB_final/Code/obj/Debug/net8.0/Code.AssemblyInfoInputs.cache
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/GB_final/Code/obj/Debug/net8.0/Code.AssemblyInfo.cs
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/GB_final/Code/obj/Debug/net8.0/Code.csproj.CoreCompileInputs.cache
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/GB_final/Code/obj/Debug/net8.0/Code.dll
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/GB_final/Code/obj/Debug/net8.0/refint/Code.dll
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/GB_final/Code/obj/Debug/net8.0/Code.pdb
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/GB_final/Code/obj/Debug/net8.0/Code.genruntimeconfig.cache
+/Users/ramilbagirov/Desktop/Murad/GeekBrains/git_education/GB_final/Code/obj/Debug/net8.0/ref/Code.dll
